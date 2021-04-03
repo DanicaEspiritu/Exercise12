@@ -62,7 +62,12 @@
 .section2 .s1 h1 {
     font-size: 35px;
     text-align: center;
+    color: white;
     font-family: sans-serif;
+}
+
+.section2 .s1 p {
+	color: white;
 }
 
 
