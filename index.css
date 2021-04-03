@@ -162,6 +162,7 @@
     box-sizing: border-box;
     font-size: 15px;
     text-align: center;
+	padding-top: 35px;
     }
 
     .box a {
