@@ -169,6 +169,9 @@
 @media screen and (max-width: 1024px){
     .box{ width: 24.79%;}
 }
+@media screen and (max-width: 1639px){
+    .box{ width: 24.79%;}
+}
     
 @media screen and (max-width: 768px){
     .box{ width: 49.70%;}
@@ -180,6 +183,11 @@
 
 /* Col3 to Col5 */
 @media only screen and (max-width: 1024px) {
+	.col3 {  margin: 1% 0 1% 0%; }
+	.span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+}
+
+@media only screen and (max-width: 1639px) {
 	.col3 {  margin: 1% 0 1% 0%; }
 	.span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
 }
