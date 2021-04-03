@@ -1,7 +1,3 @@
-body {
-	background-color: burlywood;
-}
-
 /*  SECTION 1 */
 .section1 {
 	clear: both;
@@ -18,7 +14,6 @@ body {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
-background-color: burlywood;
     padding-right: 1px;
 }
 .logoimg {
@@ -60,6 +55,8 @@ background-color: burlywood;
     background-color: #fff;
     padding-bottom: 1px;
     width: 100%;
+	box-shadow: 0 10px 30px rgba(0,0,0,.3);
+	
 }
 
 .section2 .s1 h1 {
@@ -74,6 +71,7 @@ background-color: burlywood;
 	clear: both;
 	padding: 0px;
 	margin: 0px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.3);
 }
 
 .section3 .s1 h1, p{
