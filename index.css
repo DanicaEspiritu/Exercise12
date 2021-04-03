@@ -1,5 +1,5 @@
 body {
-	background-color: darkkhaki;
+	background-color: burlywood;
 }
 
 /*  SECTION 1 */
@@ -18,12 +18,14 @@ body {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
+background-color: burlywood;
     padding-right: 1px;
 }
 .logoimg {
     height: 90px;
     width: 225px;
     margin-right: 100px;
+
 }
 .col1:first-child { margin-left: 0; }
 
