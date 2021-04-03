@@ -56,7 +56,7 @@
     padding-bottom: 1px;
     width: 100%;
 	box-shadow: 0 10px 30px rgba(0,0,0,.3);
-	
+	background-color:#0038A8;
 }
 
 .section2 .s1 h1 {
@@ -71,6 +71,7 @@
 	clear: both;
 	padding: 0px;
 	margin: 0px;
+	background-color: #ce1126;
 	box-shadow: 0 10px 30px rgba(0,0,0,.3);
 }
 
@@ -163,10 +164,11 @@
     font-size: 15px;
     text-align: center;
 	padding-top: 35px;
-    }
+	background-color: #fcd116;
+}
 
     .box a {
-        color: grey;
+        color: #000;
         text-decoration: none;
     }
     
